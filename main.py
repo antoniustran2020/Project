@@ -48,15 +48,3 @@ def hello():
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=8080, debug=True)
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
